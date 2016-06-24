@@ -1,0 +1,29 @@
+@CHARSET "EUC-KR";
+
+body{background-color: orange; }
+		#h1 {background-color:black;opacity:1.0;}
+		
+.navbar {
+		background-color: #99ccff; 
+		border: 0;
+}
+		
+.items{color:white !important; font-size:30px; }
+
+.items:hover{color:#819FF7 !important; }
+	
+#choice{padding-left:20px;}
+		
+#head{width:119px;}
+		
+#searchbar{padding-top:10px; padding-left:160px;}
+
+#login{padding-top:10px; padding-left:300px;}
+			
+#head{width:119px;}
+		
+.dropdown {position:relative; display:inline-block; vertical-align:middle;}
+		
+.dropdown-menu {
+		min-width: 0px;
+}
